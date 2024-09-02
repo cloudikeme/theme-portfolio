@@ -32,7 +32,7 @@ content:
       tag: kubernetes
     - name: Observability
       tag: observability
-    - name: Cloud Native Tools
+    - name: CNCF Tools
       tag: cncf
     - name: Tutorials
       tag: tutorials
