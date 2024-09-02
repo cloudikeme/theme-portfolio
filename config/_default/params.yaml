@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} cloudikeme. This work is licensed under {license}'
+    notice: '© {year} cloudikeme.'
     license:
       enable: true
       allow_derivatives: false
