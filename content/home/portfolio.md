@@ -29,11 +29,13 @@ content:
     - name: All
       tag: '*'
     - name: Kubernetes
-      tag: Kubernetes
+      tag: kubernetes
     - name: Observability
-      tag: Observability
+      tag: observability
     - name: Cloud Native Tools
-      tag: CNCF
+      tag: cncf
+    - name: Tutorials
+      tag: tutorials
 
 design:
   columns: '1'
