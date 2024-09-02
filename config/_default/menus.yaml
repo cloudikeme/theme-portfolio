@@ -10,3 +10,6 @@ main:
   - name: Resumé
     url: about/
     weight: 20
+  - name: Blog
+    url: latest-posts/
+    weight: 30
